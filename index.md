@@ -1,1 +1,4 @@
-# My Eleventy Project
+---
+layout: base
+title: My Eleventy Project
+---

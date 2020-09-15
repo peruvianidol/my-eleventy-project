@@ -1,14 +1,13 @@
 {
   "name": "my-eleventy-project",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Following along with 11ty.recipes.",
+  "main": "eleventy.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
   "author": "Mike Aparicio <peruvianidol@gmail.com> (http://mikeaparicio.com)",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "@11ty/eleventy": "^0.11.0"
   }
