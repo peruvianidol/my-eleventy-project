@@ -4,7 +4,8 @@
   "description": "Following along with 11ty.recipes.",
   "main": "eleventy.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "npx @11ty/eleventy --serve",
+    "prod": "npx @11ty/eleventy"
   },
   "author": "Mike Aparicio <peruvianidol@gmail.com> (http://mikeaparicio.com)",
   "license": "MIT",
